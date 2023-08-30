@@ -2,7 +2,7 @@
 
 Welcome to the 3D Marble Race Game! This is a high-speed, action-packed game where you control a marble to get to a golden star as fast as you can. ⏱️ Navigate through tricky obstacles and try to beat the clock! 🏁
 
-![Game Preview](./assets/gamePreview.jpg)
+![Game Preview](./gamePreview.jpg)
 
 ## 🎮 How to Play
 
